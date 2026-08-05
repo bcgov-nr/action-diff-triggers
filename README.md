@@ -3,9 +3,9 @@
 > [!IMPORTANT]
 > **This Action is being moved!**
 >
-> Development and maintenance of this action is being consolidated into [bcgov/actions](https://github.com/bcgov/actions) repository under the [diff-triggers](https://github.com/bcgov/actions/tree/main/diff-triggers) folder.
+> Development and maintenance of this action are being consolidated in the [bcgov/actions](https://github.com/bcgov/actions) repository under the [diff-triggers](https://github.com/bcgov/actions/tree/main/diff-triggers) folder.
 >
-> In the near future workflows will instead be called with a new path:
+> In the near future, workflows should instead reference the new path:
 > ```yaml
 > - uses: bcgov/actions/diff-triggers@vX.Y.Z
 > ```
